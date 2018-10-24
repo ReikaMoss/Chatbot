@@ -1,0 +1,182 @@
+.cFull { width: auto; height: auto; overflow: hidden; }
+
+@media (max-width: 1265px) { .cFull { width: auto; height: auto; overflow: hidden; } }
+.p0 { padding: 0 !important; }
+
+.mauto { margin: auto; }
+
+.dblock { display: block; }
+
+html, body { min-height: 100%; height: 100%; }
+
+.js div#preloader { position: fixed; left: 0; top: 0; z-index: 1000000000000000000000; width: 100%; height: 100%; overflow: visible; background-repeat: no-repeat; background-position: center center; }
+
+p { margin: 0; }
+
+li { list-style: none; }
+
+.wrap { position: relative; height: 100%; }
+
+.toolresponsive, .toolresponsive .titl.bdceleste, .toolresponsive .nro { text-align: center; }
+
+.toolresponsive .titl.bdceleste { text-transform: uppercase; }
+
+.relative { position: relative; }
+
+.absolute { position: absolute; }
+
+.fixed, .toolresponsive { position: fixed; }
+
+.toolresponsive { z-index: 99999999999999; }
+
+.toolresponsive { background: rgba(0, 0, 0, 0.2); border: 3px solid rgba(0, 0, 255, 0.3); box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.2); font-family: Arial; font-size: 20px; padding: 10px; opacity: 0.7; bottom: 0; left: 0; color: #000000; }
+.toolresponsive .titl { font-size: 20px; padding-top: 5px; }
+.toolresponsive .titl.bdceleste { border-top: 1px solid rgba(173, 216, 230, 0.8); }
+
+.tabs { margin-top: 15px; margin-bottom: 15px; padding: 0; position: relative; }
+.tabs .row div { display: inline; height: 5px; width: 11.11111%; padding: 0; float: left; }
+
+/* fin tabs */
+/* FONTS */
+.ultral { font-family: 'Platform-hairline'; }
+
+.light, p, .vermas, .vermas a h4, section.equipos .equipos-col article aside.equipos-detalle hgroup h4, section.personalplay article hgroup h4 { font-family: 'Platform-light'; }
+
+.reg, h1.titlePersonal, a.btn-default, section.planespacks footer.planespacks-precio span, section.equipos .equipos-col article aside.equipos-detalle hgroup h1, section.equipos .equipos-col article aside.equipos-detalle hgroup h4, section.equipos .equipos-col article aside.equipos-detalle hgroup h4 span, section.financiacion article hgroup h5, section.personalplay article hgroup h4 span, section.personalapp article aside h3 { font-family: 'Platform-regular'; }
+
+.med, aside.solotiendaOnline, section.equipos .equipos-col article aside.equipos-detalle hgroup h3 { font-family: 'Platform-medium'; }
+
+.bold, h1 { font-family: 'Platform-bold'; }
+
+/* ESTRUCTURA GENERAL */
+.js div#preloader { background-image: url("../images/preloader.svg"); }
+.js div#preloader.preloader_individuos { background-color: #00b4b5; }
+.js div#preloader.preloader_empresas { background-color: #0057a8; }
+
+html, body { background-color: #ffffff; min-height: 100%; height: 100%; }
+
+ul.liDisc { list-style-type: disc; padding-left: 15px; }
+ul.liDisc li { list-style: initial; }
+
+ul.liNone { list-style-type: none; padding-left: 0; }
+ul.liNone li { list-style: none; }
+
+/* fin Ul´s */
+@media (max-width: 767px) { .tabs { margin: 0; } }
+@media (min-width: 768px) { .tabs { margin: 15px 0 5px 0; } }
+
+h1.titlePersonal { color: #000000; min-height: 25px; }
+h1.titleSmall { min-height: 46px; }
+@media (max-width: 767px) { h1.titleSmall { font-size: 20px; } }
+@media (min-width: 768px) { h1.titleSmall { font-size: 20px; } }
+
+p { font-size: 12px; font-family: 'Tahoma', arial; }
+
+small { position: relative; float: left; }
+
+/* fin textos */
+/*Botones*/
+.vermas { position: relative; padding: 5px 5px 5px 0 !important; float: left; margin-top: 18px; }
+@media (max-width: 767px) { .vermas { margin-top: 0; padding: 0 5px 0 0 !important; border-bottom: 2px solid rgba(204, 204, 204, 0.5); } }
+.vermas a { position: relative; float: left; font-size: 14px; letter-spacing: 0.5px; -webkit-transition: all 550ms cubic-bezier(0.25, 0.46, 0.45, 0.94); -moz-transition: all 550ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition: all 550ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+.vermas a:before { content: url("../images/arrow-link.gif"); position: absolute; top: 50%; margin-top: -7.5px; right: -25px; width: 7px; height: 15px; -webkit-transition: all 350ms cubic-bezier(0.25, 0.46, 0.45, 0.94); -moz-transition: all 350ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition: all 350ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+.vermas a h4 { color: #3f3f3f; -webkit-transition: all 550ms cubic-bezier(0.25, 0.46, 0.45, 0.94); -moz-transition: all 550ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition: all 550ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+@media (max-width: 767px) { .vermas a h4 { font-size: 20px; } }
+@media (min-width: 768px) { .vermas a h4 { font-size: 15px; } }
+.vermas:hover a h4 { color: #00b4b5; -webkit-transition: all 450ms cubic-bezier(0.25, 0.46, 0.45, 0.94); -moz-transition: all 450ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition: all 450ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+.vermas:hover a:before { right: -30px; -webkit-transition: all 350ms cubic-bezier(0.25, 0.46, 0.45, 0.94); -moz-transition: all 350ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition: all 350ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+
+a.btn-detalle { color: #00b4b5; font-family: 'Tahoma', arial; font-size: 14px; font-weight: 100; line-height: 1; float: left; -webkit-transition: all 400ms cubic-bezier(0.215, 0.61, 0.355, 1); -moz-transition: all 400ms cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 400ms cubic-bezier(0.215, 0.61, 0.355, 1); }
+a.btn-detalle:hover { color: #007c85; text-decoration: underline; -webkit-transition: all 550ms cubic-bezier(0.215, 0.61, 0.355, 1); -moz-transition: all 550ms cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 550ms cubic-bezier(0.215, 0.61, 0.355, 1); }
+
+a.btn-default { position: relative; color: #ffffff; border: 1px solid transparent; margin-top: 8px; text-transform: inherit; -webkit-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); -moz-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); }
+@media (max-width: 767px) { a.btn-default { font-size: 13.5px; width: 100%; } }
+@media (min-width: 768px) { a.btn-default { font-size: 12.5px; } }
+@media (min-width: 992px) { a.btn-default { font-size: 13.5px; } }
+a.btn-default.btn-magenta { background-color: #d9186b; }
+a.btn-default.btn-magenta:hover { background-color: transparent; border: 1px solid #d9186b; color: #d9186b; }
+a.btn-default.btn-celeste { background-color: #00B0C8; }
+a.btn-default.btn-celeste:hover { background-color: transparent; border: 1px solid #00B0C8; color: #00B0C8; }
+a.btn-default:hover { -webkit-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); -moz-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); }
+
+aside.solotiendaOnline { margin-top: 7px; float: left; background-color: #f2c108; text-align: center; line-height: 1; color: #000000; border: 1px solid transparent; -webkit-border-radius: 3.5px; -moz-border-radius: 3.5px; border-radius: 3.5px; -webkit-background-clip: padding-box; -moz-background-clip: padding; background-clip: padding-box; -webkit-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); -moz-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); }
+@media (max-width: 767px) { aside.solotiendaOnline { font-size: 15px; padding: 8px 10px; width: 100%; } }
+@media (min-width: 768px) { aside.solotiendaOnline { font-size: 12px; padding: 8px 3px; width: 100%; } }
+@media (min-width: 992px) { aside.solotiendaOnline { font-size: 15px; padding: 8px 10px; width: auto; } }
+aside.solotiendaOnline:hover { background-color: transparent; color: #f2c108; border: 1px solid #f2c108; -webkit-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); -moz-transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1); }
+
+/* fin botones*/
+/* backgrounds */
+.celeste h1, .celeste h2, .celeste h3, .celeste h5, .celeste .text-destacado { color: #00b4b5 !important; }
+
+.amarillo h1, .amarillo h2, .amarillo h3, .amarillo h5, .amarillo .text-destacado { color: #f2c108 !important; }
+
+.azul h1, .azul h2, .azul h3, .azul h5, .azul .text-destacado { color: #0057a8 !important; }
+
+.violeta h1, .violeta h2, .violeta h3, .violeta h5, .violeta .text-destacado { color: #7b3d76 !important; }
+
+.magenta h1, .magenta h2, .magenta h3, .magenta h5, .magenta .text-destacado { color: #d9186b !important; }
+
+.bgceleste { background-color: #00b4b5; }
+
+.bgturquesa { background-color: #007c85; }
+
+.bgamarillo { background-color: #f2c108; }
+
+.bgrosa { background-color: #f287b7; }
+
+.bgmagenta { background-color: #d9186b; }
+
+.bgazul { background-color: #0057a8; }
+
+.bgvioleta { background-color: #7b3d76; }
+
+.bgnegro { background-color: #000000; }
+
+.bgmarron { background-color: #5a461b; }
+
+/* fin backgrounds */
+@media (min-width: 1200px) { .container { max-width: 970px; } }
+
+/* fin max-width en escritorio*/
+/* ESTRUCTURA */
+#homeIndividuos { position: relative; height: 100%; overflow: hidden; }
+#homeIndividuos .carousel-inner { padding: 0; margin: 0; }
+#homeIndividuos .carousel-inner .item { padding: 0; margin: 0; -webkit-transition: all 450ms cubic-bezier(0.25, 0.46, 0.45, 0.94); -moz-transition: all 450ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition: all 450ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+#homeIndividuos .carousel-inner .item img { padding: 0; margin: 0; }
+#homeIndividuos .carousel-inner .item.active { padding: 0; margin: 0; }
+#homeIndividuos a.carousel-control { background-image: none; width: 5%; }
+#homeIndividuos a.carousel-control span { margin-top: -30px; }
+#homeIndividuos ol.carousel-indicators { width: 100%; background-color: #fafafa !important; position: relative; bottom: 0; padding: 6px 0 2px 0; border-bottom: 1px #f2f2f2 solid; left: 0; margin-left: 0; margin-bottom: 0; }
+#homeIndividuos ol.carousel-indicators li { width: 11px; height: 11px; margin: 0 4px; background-color: #00acb8; }
+#homeIndividuos ol.carousel-indicators li.active { width: 11px; height: 11px; margin: 0 4px; background-color: #52f3ff; }
+
+/* fin #homeIndividuos - carousel */
+section.seccion { position: relative; }
+@media (max-width: 767px) { section.seccion { padding-right: 15px; padding-left: 15px; } }
+section.seccion article.col-sm-6 { position: relative; padding: 0; }
+section.seccion article.col-sm-6 article { position: relative; padding: 5px; }
+@media (max-width: 767px) { section.seccion article.col-sm-6 article { clear: both; padding-right: 0; padding-left: 0; } }
+
+/* fin seccion */
+section.planespacks { position: relative; }
+section.planespacks article.planes, section.planespacks article.packs { position: relative; float: left; }
+section.planespacks article.planes article, section.planespacks article.packs article { float: left; }
+@media (max-width: 767px) { section.planespacks article.planes article, section.planespacks article.packs article { border-bottom: 2px solid rgba(204, 204, 204, 0.5); padding-bottom: 15px; } }
+@media (max-width: 767px) { section.planespacks article.planes.packs aside.vermas, section.planespacks article.packs.packs aside.vermas { margin-top: 0; border-bottom: 0; } }
+section.planespacks hgroup { position: relative; }
+section.planespacks hgroup h5 { font-size: 12px; min-height: 15px; font-family: 'Tahoma', arial; }
+section.planespacks hgroup h1 { margin-top: 0; font-size: 22px; min-height: 30px; }
+section.planespacks aside.planespacks-detalle { position: relative; padding: 0; margin-bottom: 5px; }
+@media (max-width: 767px) { section.planespacks aside.planespacks-detalle { min-height: 0; } }
+@media (min-width: 768px) { section.planespacks aside.planespacks-detalle { min-height: 98px; } }
+@media (min-width: 992px) { section.planespacks aside.planespacks-detalle { min-height: 125px; } }
+@media (min-width: 1200px) { section.planespacks aside.planespacks-detalle { min-height: 115px; } }
+section.planespacks aside.planespacks-detalle ul { margin-bottom: 12px; }
+section.planespacks aside.planespacks-detalle p { color: #000000; }
+section.planespacks footer.planespacks-precio { padding: 0; }
+section.planespacks footer.planespacks-precio span { font-size: 22px; line-height: 1; }
+section.planespacks footer.planespacks-precio small { width: 100%; color: #999999; margin-bottom: 5px; font-size: 11px; font-family: 'Tahoma', arial; }
+@media (max-width: 767px) { section.planespacks aside.vermas { margin-top: 0; padding: 0 5px 0 0 !important; border-bottom: 2px solid rgba(204, 204, 204, 0.5); } }
+
+/* fin seccion planespacks */
