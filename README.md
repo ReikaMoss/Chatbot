@@ -1,5 +1,7 @@
-El desarrollo de la inteligencia artificial cada vez está más presente en nuestras vidas y con el paso del tiempo su presencia va en aumento
-Es por eso que se realizó un poryecto acerca de como es la creación y desarrollo de un chatbot.
+# Telmobi/chatbot
+Telmobi es una empresa de telefonía que cuenta con un call center muy grande, pero siguen sin darse abasto para poder realizar el proceso de atención a clientes correcto.Es por eso que necesitan un chat que los ayude a completar le proceso de atención a clientes .
 
-Para ver la información completa dar click en el siguiente link:
+## Proceso de documentación:
 https://sites.google.com/view/kawaii4/p%C3%A1gina-principal
+
+# Prototipo:
