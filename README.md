@@ -18,8 +18,8 @@ Consultora UX
 
 Como diseñadoras contratadas se proponen los siguientes puntos:
 
-Crear el mejor flujo de interacción para que "ARI" (Chatbot) pueda comunicarse con los usuarios de manera natural y efectiva
-Incorporar el feedback de las pruebas de usabilidad para realizar las modificaciones pertinentes
+* Crear el mejor flujo de interacción para que "ARI" (Chatbot) pueda comunicarse con los usuarios de manera natural y efectiva
+* Incorporar el feedback de las pruebas de usabilidad para realizar las modificaciones pertinentes
 
 
 Equipo: Nuestro equipo consistió en 4 diseñadoras de UX . Cada integrante del grupo fue responsable de la investigación, planificación, ideación, diseño y pruebas.
@@ -28,12 +28,14 @@ Marco de tiempo: 2 semanas
 
 Antes de comenzar a trabajar en el proyecto fue importante saber tres cosas importantes por parte del cliente:
 
-¿Cuál es el objetivo de negocio?
-¿Cuál es el contexto de uso del producto?
-¿Cuáles son los objetivos del usuario?
+* ¿Cuál es el objetivo de negocio?
+* ¿Cuál es el contexto de uso del producto?
+* ¿Cuáles son los objetivos del usuario?
+
 Además de hacer el ejercicio empático de comprender al usuario y a nuestro cliente, siempre se pensó quiénes son y qué necesitan.
+
 ## Proceso de documentación:
 https://sites.google.com/view/kawaii4/p%C3%A1gina-principal/chatbot
+
 ##  Prototipado:
-https://dani1592.github.io/chatbot/.
 https://links.collect.chat/5bccd54362b4485c64849b37
