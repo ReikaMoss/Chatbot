@@ -5,24 +5,25 @@ TELMOBI es una de las principales empresas de telecomunicaciones en México que 
 
 Ser una compañía admirada por nuestros clientes, buscando su permanente satisfacción con nuestros productos y servicios.
 
-
-Oportunidad
+**Oportunidad**
 
 Tras la fusión y la implementación de nuevos servicios aumentó la carga de trabajo de varias áreas, entre ellas el área de call center que atiende los casos de atención a clientes para resolver problemas y levantar números de reporte con relación a fallas de servicio, problemas de hardware, software, aplicaciones y otros.
 
-Objetivos breves y de negocios
+**Objetivos breves y de negocios**
 
 Para resolver este exceso repentino en la carga de trabajo, TELMOBI ha decidido implementar la inteligencia cognitiva "Sophie" adoptando el nombre de “ARI” el cual es un asistente virtual (Chatbot) cuyo objetivo es reducir un porcentaje de llamadas que ingresan al call center ayudando al usuario a resolver los problemas más frecuentes.
 
-Consultora UX
+**Consultora UX**
 
 Como diseñadoras contratadas se proponen los siguientes puntos:
 
-* Crear el mejor flujo de interacción para que "ARI" (Chatbot) pueda comunicarse con los usuarios de manera natural y efectiva
-* Incorporar el feedback de las pruebas de usabilidad para realizar las modificaciones pertinentes
+* Crear el mejor flujo de interacción para que "ARI" (Chatbot) pueda comunicarse con los usuarios de manera natural y efectiva.
+* Incorporar el feedback de las pruebas de usabilidad para realizar las modificaciones pertinentes.
 
 
-Equipo: Nuestro equipo consistió en 4 diseñadoras de UX . Cada integrante del grupo fue responsable de la investigación, planificación, ideación, diseño y pruebas.
+**Equipo**
+
+Nuestro equipo consistió en 4 diseñadoras de UX. Cada integrante del grupo fue responsable de la investigación, planificación, ideación, diseño y pruebas.
 
 Marco de tiempo: 2 semanas
 
