@@ -36,7 +36,7 @@ Antes de comenzar a trabajar en el proyecto fue importante saber tres cosas impo
 
 Además de hacer el ejercicio empático de comprender al usuario y a nuestro cliente, siempre se pensó quiénes son y qué necesitan.
 
-**Fase inicial de Investigación y Análisis
+**Fase inicial de Investigación y Análisis**
 
 ![Documentación](imagenes/objetivos.png)
 
